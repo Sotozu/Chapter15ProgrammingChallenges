@@ -22,10 +22,12 @@
     <ClCompile Include="08 CustomerData.cpp" />
     <ClCompile Include="08 PersonData.cpp" />
     <ClCompile Include="08 PreferredCustomer Class.cpp" />
+    <ClCompile Include="08 PreferredCustomer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="08 CustomerData.h" />
     <ClInclude Include="08 PersonData.h" />
+    <ClInclude Include="08 PreferredCustomer.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
