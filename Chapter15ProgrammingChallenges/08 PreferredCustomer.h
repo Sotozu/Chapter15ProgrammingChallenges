@@ -1,11 +1,14 @@
 #pragma once
-#include "07 CustomerData.h"
-class PreferredCustomer08 : public CustomerData07 {
+#include "08 CustomerData.h"
+class PreferredCustomer08 : public CustomerData08 {
 private:
 	
 	double purchaseAmount;
 	double discountLevel;
-	
+
+	//Mutator
+	void setDiscountLevel();
+
 protected:
 
 public:
@@ -20,6 +23,5 @@ public:
 
 	//Mutators
 	void setPurchaseAmount(double pAmount);
-	void setDiscountLeve(double dLevel);
-
+	void addPurchase(double pAmount);
 };
