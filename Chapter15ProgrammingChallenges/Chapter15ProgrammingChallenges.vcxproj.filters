@@ -15,8 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="13 Pure Abstract Base Class Project Main.cpp">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="13 BasicShape.h">
+      <Filter>Resource Files</Filter>
     </ClInclude>
+    <ClInclude Include="13 Circle.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="13 Rectangle.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="13 Circle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13 Pure Abstract Base Class Project Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13 Rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

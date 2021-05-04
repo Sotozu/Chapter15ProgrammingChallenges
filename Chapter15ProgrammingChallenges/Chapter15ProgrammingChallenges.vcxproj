@@ -19,7 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="13 Pure Abstract Base Class Project Main.cpp" />
+    <ClInclude Include="13 BasicShape.h" />
+    <ClInclude Include="13 Circle.h" />
+    <ClInclude Include="13 Rectangle.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="13 Circle.cpp" />
+    <ClCompile Include="13 Pure Abstract Base Class Project Main.cpp" />
+    <ClCompile Include="13 Rectangle.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
