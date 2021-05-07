@@ -15,25 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="13 BasicShape.h">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
-    <ClInclude Include="13 Circle.h">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
-    <ClInclude Include="13 Rectangle.h">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
+    <ClCompile Include="14 Bank Accounts Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14 Saving Account.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14 Checking Account.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="13 Circle.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="13 Pure Abstract Base Class Project Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="13 Rectangle.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <ClInclude Include="14 Generic Bank Acc Info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="14 Savings Account.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="14 Checking Account.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
